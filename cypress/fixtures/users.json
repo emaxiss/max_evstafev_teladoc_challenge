@@ -1,0 +1,35 @@
+[
+    {
+        "user": "Sales",
+        "firstName": "Tyrion",
+        "lastName": "Lannister",
+        "userName": "theImp",
+        "password": 12345678,
+        "company": "Company BBB",
+        "role": 1,
+        "email": "tyrion@mail.com",
+        "cellPhone": 15482244584
+    },
+    {
+        "user": "Customer",
+        "firstName": "Sansa",
+        "lastName": "Stark",
+        "userName": "princess",
+        "password": 12345678,
+        "company": "Company AAA",
+        "role": 2,
+        "email": "sansas@mail.com",
+        "cellPhone": 18544786985
+    },
+    {
+        "user": "Admin",
+        "firstName": "Jon",
+        "lastName": "Snow",
+        "userName": "TheNorthKing",
+        "password": 12345678,
+        "company": "Company AAA",
+        "role": 3,
+        "email": "jonsnow@mail.com",
+        "cellPhone": 178987654321
+    }
+]

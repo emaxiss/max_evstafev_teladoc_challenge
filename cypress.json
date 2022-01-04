@@ -1,4 +1,4 @@
 {
-    "baseUrl": "https://www.way2automation.com/angularjs-protractor/webtables/",
+    "baseUrl": "https://www.way2automation.com",
     "include": ["./node_modules/cypress", "cypress/integration/tables.spec.js"]
 }
