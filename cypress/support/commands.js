@@ -16,3 +16,7 @@ Cypress.Commands.add('deleteUser', (username) => {
     cy.contains('button', 'Cancel').should('be.visible');
     cy.contains('button', 'OK').should('be.visible').click();
  });
+
+ Cypress.Commands.add('clearField', (fieldName) => { 
+    cy.get(`[name=${fieldName}]`).clear();
+ });
